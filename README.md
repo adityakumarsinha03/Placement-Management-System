@@ -1,1 +1,2 @@
-# CUSAT-Placement-Managment-System
+# DBMS-Mini-Project
+College Placement Management System
