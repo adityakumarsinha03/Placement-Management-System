@@ -1,2 +1,2 @@
 # DBMS-Mini-Project
-# CUSAT Placement Management System
+# Placement Management System
