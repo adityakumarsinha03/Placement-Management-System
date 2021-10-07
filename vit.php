@@ -8,6 +8,16 @@
 
 	<link rel="stylesheet" type="text/css" href="stl.css">
 	<title>Home-T&P CUSAT Kochi</title>
+	<style>
+a:link, a:visited {
+  color:  #007399;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  background-color:  #ffeb99;
+}
+</style>
 
 </head>
 <body>
@@ -23,10 +33,10 @@
 			    </div>
 			<h4 class=" tc-black mg-sm">
 					
-					<a class="ltc-black" href="vit.php">Training &amp; Placement Cell</a>
+					<a class="ltc-black" href="vit.php" style="color:black;">Training &amp; Placement Cell</a>
 				</h4>
 				<h6 class=" mg-clear tc-1">
-					 <a class="pull-left" href="https://cusat.ac.in" target="_blank"> School of Engineering, CUSAT</a><br>
+					 <a class="pull-left" href="https://cusat.ac.in" target="_blank"style="color:black;"> School of Engineering, CUSAT</a><br>
 				</h6>
 			</div>
 		</div>
@@ -199,10 +209,10 @@ function showSlides() {
                                         <br>
 				</p>
 				<p class="footer3">
-					<strong>Phone</strong> <br><a href="CALL US NOW: +91(484)2577290">+91(484)2577290</a> <br>
+					<strong>Phone</strong> <br><a href="tel:+91(484)2577290">+91(484)2577290</a> <br>
 				</p>
 				<p class="footer4">
-				<strong>Email</strong> <br><a href="https://cusat.ac.in">principal@cusat.ac.in</a>
+				<strong>Email</strong> <br><a href = "mailto: iraa@cusat.ac.in">iraa@cusat.ac.in</a>
 				</p>
 			</div>
 		</div>

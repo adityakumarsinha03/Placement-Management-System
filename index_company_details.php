@@ -160,6 +160,20 @@ else
   <link rel="stylesheet" type="text/css" href="1.css"> 
   <link rel="shortcut icon" type="image/png" href="head_logo.jpeg">
   <link rel="stylesheet" type="text/css" href="stl.css">
+   <style>
+body {
+  background-image: url('c8.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a:link, a:visited {
+  color:  #007399;
+  text-decoration: none;
+}
+
+
+</style>
 </head>
 <body >
   <div class="list-unstyled3" >
@@ -197,12 +211,12 @@ else
       <!-- <input type="text" name="branch1" value="<?php echo $branch1 ?>">  -->
     <select name="branch1" >
     <option value="CSE">Computer Science and Engineering</option>
-    <option value="MME">Information Technology Engineering</option>
+    <option value="IT">Information Technology Engineering</option>
     <option value="ECE">Electronics and Comm Engineering</option>
-    <option value="EE">Electrical Engineering</option>
+    <option value="EEE">Electrical Engineering</option>
     <option value="ME">Mechanical Engineering</option>
     <option value="CE">Civil Engineering</option>
-    <option value="CHE">Safety & Fire Engineering</option>
+    <option value="SFE">Safety & Fire Engineering</option>
    
      </select>
     </div>

@@ -235,6 +235,19 @@ if (empty($tenth_per))
   <link rel="stylesheet" type="text/css" href="1.css"> 
   <link rel="shortcut icon" type="image/png" href="head_logo.jpeg">
   <link rel="stylesheet" type="text/css" href="stl.css">
+  <style>
+body {
+  background-image: url('c2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a:link, a:visited {
+  color:  #007399;
+  text-decoration: none;
+}
+
+</style>
 </head>
 <body >
   <div class="list-unstyled3" >
@@ -303,10 +316,10 @@ if (empty($tenth_per))
     <option value="CSE">Computer Science and Engineering</option>
     <option value="IT">Information Technology Engineering</option>
     <option value="ECE">Electronics and Comm Engineering</option>
-    <option value="EE">Electrical Engineering</option>
+    <option value="EEE">Electrical Engineering</option>
     <option value="ME">Mechanical Engineering</option>
     <option value="CE">Civil Engineering</option>
-    <option value="CHE">Safety & Fire Engineering</option>
+    <option value="SFE">Safety & Fire Engineering</option>
    
      </select>
    
@@ -319,8 +332,8 @@ if (empty($tenth_per))
       <label>10th pass year</label>
       <!--<input type="text" name="tenth_pass" value="<?php echo $tenth_pass; ?>"> -->
     <select name="tenth_pass" >
-    <option value="2015">2015</option>
     <option value="2016">2016</option>
+    <option value="2017">2017</option>
 
      </select>
     </div>
@@ -332,8 +345,8 @@ if (empty($tenth_per))
       <label>12th pass year</label>
       <!--<input type="text" name="twelfth_pass" value="<?php echo $twelfth_pass; ?>">  -->
     <select name="twelfth_pass" >
-    <option value="2017">2017</option>
     <option value="2018">2018</option>
+    <option value="2019">2019</option>
      </select>
     </div>
 	<div class="input-group">
@@ -344,8 +357,8 @@ if (empty($tenth_per))
       <label>passing year</label>
      <!-- <input type="text" name="pass" value="<?php echo $pass; ?>">  -->
     <select name="pass" >
-    <option value="2019">2021</option>
-    <option value="2020">2022</option>
+    <option value="2012">2022</option>
+    <option value="2023">2023</option>
      </select>
     </div>
 	<div class="input-group">
@@ -369,7 +382,7 @@ if (empty($tenth_per))
   	  <input type="password" name="st_password2">
   	</div>
     <div class="input-group">
-      <label>Upload Image(Max Size 512kb)</label>
+      <label>Upload Resume(Max Size 512kb)</label>
       <input type="file" name="image" id="image" required="required"/>
     </div>
 	

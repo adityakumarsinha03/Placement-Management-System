@@ -56,10 +56,7 @@
 						<a href="admin_noti_select_int.php " class="btn7 ">Selected Students for Internship</a>
 						<a href="admin_noti_select_place.php" class="btn7">Selected Students for Placement</a>
 				</ul>
-			        <ul class="list-unstyled4 list-horizontal-layout right-align">
-						<!-- <a href="profile_student_update_place.php" class="btn7 ">Update Profile</a> -->
-						<a href="company.php" class="btn5">Add Company</a>
-				</ul>  
+
 </div>
 
 <div class="col-sm-4">

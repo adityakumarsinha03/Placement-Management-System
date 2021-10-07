@@ -5,7 +5,6 @@
 	<link rel="shortcut icon" type="image/png" href="head_logo.jpeg">
 	<title>Admin</title>
 	<link rel="stylesheet" type="text/css" href="stl.css">
-
 </head>
 <body>
 

@@ -76,6 +76,9 @@ form, .content
   border-radius: 5px;
   border: 1px solid gray;
 }
+
+
+
 .btn 
 {
   padding: 10px;
@@ -85,6 +88,9 @@ form, .content
   border: none;
   border-radius: 5px;
 }
+
+
+
 .error 
 {
   width: 92%; 

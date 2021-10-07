@@ -1,2 +1,2 @@
 # DBMS-Mini-Project
-# Placement Management System
+College Placement Management System

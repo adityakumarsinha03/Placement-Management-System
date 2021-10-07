@@ -87,12 +87,26 @@ if (isset($_POST['disapprove_company'])) //??????????????//
   <link rel="stylesheet" type="text/css" href="1.css">
   <link rel="shortcut icon" type="image/png" href="vit.jpg">
   <link rel="stylesheet" type="text/css" href="stl.css">
+   <style>
+body {
+  background-image: url('c13.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a:link, a:visited {
+  color:  #007399;
+  text-decoration: none;
+}
+
+
+</style>
 </head>
 <body>
   <div class="list-unstyled3" >
           <ul>
             <li><a href="vit.php"><img src="vit.jpg" alt="CUSAT Kochi"  class="logo2" height="40"  align="left"/></a></li>
-              <li style="float:right"><a  href="logout.php" title="<?php echo $_SESSION['admin_name']; ?> ">Log Out</a></li> 
+			   <li style="float:right"><a  href="logout.php" title="<?php echo $_SESSION['admin_name']; ?> ">Log Out</a></li> 
   
             <div class="para">
             <p> Training &amp; Placement, CUSAT Kochi</p>

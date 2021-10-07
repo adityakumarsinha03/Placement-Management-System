@@ -118,6 +118,20 @@ else
   <link rel="stylesheet" type="text/css" href="1.css">
   <link rel="shortcut icon" type="image/png" href="head_logo.jpeg">
   <link rel="stylesheet" type="text/css" href="stl.css">
+  <style>
+body {
+  background-image: url('c2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a:link, a:visited {
+  color:  #007399;
+  text-decoration: none;
+}
+
+
+</style>
 </head>
 <body>
   <div class="list-unstyled3" >
@@ -162,7 +176,7 @@ else
   	<p>
   		Not enrolled yet? <a href="student_register.php">Sign up</a>
       <br>
-      <a href="">Forgot Password</a>
+ 
   	</p>
   </form>
 </body>
