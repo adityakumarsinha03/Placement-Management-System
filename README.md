@@ -1,30 +1,5 @@
-# DBMS-Mini-Project
 # Placement-Management-System
-
-
-# Preview 
-![](screenshort_MINi_project/home.png)
-
-![](screenshort_MINi_project/index_home.png)
-![](screenshort_MINi_project/about_index.png)
-![](screenshort_MINi_project/prefrences.png)
-![](screenshort_MINi_project/mail_index.png)
-![](screenshort_MINi_project/hod_login_index1.png)
-![](screenshort_MINi_project/hod_manage_users.png)
-![](screenshort_MINi_project/hod_notif.png)
-
-![](screenshort_MINi_project/student_index.png)
-
-
-![](screenshort_MINi_project/student_dashboard.png)
-![](screenshort_MINi_project/student_queries.png)
-![](screenshort_MINi_project/principal_home.png)
-![](screenshort_MINi_project/principal_manage_users.png)
-![](screenshort_MINi_project/principal_queries.png)
-![](screenshort_MINi_project/principal_student_eligibility.png)
-
-
-
+     -DBMS Mini Project
 
 ## A Smart Way to Manage the Placement of Students
 
@@ -95,4 +70,15 @@ This Page is for the admin to monitor as well as verify student and company. It 
 Original Project is created by, I have Cloned it to my local machine and modified it accordingly
 https://github.com/harithsa/Placement-Management-System
 
+
+
+
+# Preview 
+![](screenShots/homepage1.png)
+![](screenShots/admin1.png)
+![](screenShots/admin2.jpg)
+![](screenShots/student1.png)
+![](screenShots/student2.png)
+![](screenShots/company1.png)
+![](screenShots/company2.png)
 
