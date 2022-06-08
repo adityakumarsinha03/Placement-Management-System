@@ -8,8 +8,10 @@
    Clone the code from my account and if your are using linux and lampp stack then copy the folder to the htdocs.
    Create 2 databases  using **phpmyadmim** name of  the database should be **details** and **placement** and import the code      from the Databases folder, there are two files in total on Revised.sql and Skeleton Database.sql . You can pick any of the      codes for importing into databases.
 
-# Code is compatible with the new version version of MySql Improvised Version
-# Spoiler Alert for those who want the code should be backward compatible
+
+-> Code is compatible with the new version version of MySql Improvised Version
+
+-> Spoiler Alert for those who want the code should be backward compatible
 Most of the php  codes are written in the Object Oriented way , but if anybody want to be in procedural way can change the 
 $connect = mysqli_connect("localhost", "root","", "details");
 "details " is the name of the database, and there is no password in my lammp stack.But if you have replace with your own password.
@@ -60,11 +62,11 @@ Admin Can Use Query tab to get almost all the Information He needs about a Stude
 ## Homepage
 ### Master Homepage
 It is the Main Homepage where the Links to all the Different Logins and some information about college.
-### student Homepage
+### Student Homepage
 This Page is for the Student to Look at the Current Placement Drives News and to apply on it.
-### company Homepage
+### Company Homepage
 This Page is for the Company to post opening for the various roles with the necessary details like location and CTC. Can also see the list of students applied.
-### admin Homepage
+### Admin Homepage
 This Page is for the admin to monitor as well as verify student and company. It updates the student status.
 
 
